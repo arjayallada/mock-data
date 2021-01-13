@@ -39,6 +39,33 @@
                "backgroundColor":"#b8ffd4",
                "imageOnLeft":false
             }
-         }
+        },
+        "communityData":{
+            "articleHeader":{
+               "pageName":"Community",
+               "desc":"Quis enim lobortis scelerisque fermentum dui faucibus. Et magnis dis parturient montes.",
+               "imageUrl":"http://www.pngall.com/wp-content/uploads/2016/07/Fashion.png",
+               "backgroundColor":"#d6d6d6",
+               "imageOnLeft":true
+            }
+        },
+        "entertainmentData":{
+            "articleHeader":{
+               "pageName":"Entertainment",
+               "desc":"Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Vitae proin sagittis nisl rhoncus.",
+               "imageUrl":"http://www.pngall.com/wp-content/uploads/2016/07/Fashion.png",
+               "backgroundColor":"#a8f7ff",
+               "imageOnLeft":false
+            }
+        },
+        "lifestyleData":{
+            "articleHeader":{
+               "pageName":"Lifestyle",
+               "desc":"Felis eget velit aliquet sagittis. Erat pellentesque adipiscing commodo elit at imperdiet.",
+               "imageUrl":"http://www.pngall.com/wp-content/uploads/2016/07/Fashion.png",
+               "backgroundColor":"#ffcef9",
+               "imageOnLeft":true
+            }
+        }
     }
 }
