@@ -1,14 +1,44 @@
-[
-    {
-        "id": 1,
-        "title": "Post 1"
-    },
-    {
-        "id": 2,
-        "title": "Post 2"
-    },
-    {
-        "id": 3,
-        "title": "Post 3"
+{
+    "makeExamData": {
+        "fashionData":{
+            "articleHeader":{
+                "pageName":"Fashion",
+                "desc":"Enjoy a plethora of dining options to satisfy the cravings of you palate",
+                "imageUrl":"http://www.pngall.com/wp-content/uploads/2016/07/Fashion.png",
+                "backgroundColor":"#ffe5c4",
+                "imageOnLeft":false
+            },
+            "gallery":{
+                "title":"Create your summer look",
+                "desc":"See the styles currated by our favorite fashion icons. Style your way to summer!",
+                "images":[
+                    "https://youthincmag.com/wp-content/uploads/2018/05/Summer-Fashion-Essentials.jpg",
+                    "https://youthincmag.com/wp-content/uploads/2018/05/Summer-Fashion-Essentials.jpg",
+                    "https://youthincmag.com/wp-content/uploads/2018/05/Summer-Fashion-Essentials.jpg",
+                    "https://youthincmag.com/wp-content/uploads/2018/05/Summer-Fashion-Essentials.jpg",
+                    "https://youthincmag.com/wp-content/uploads/2018/05/Summer-Fashion-Essentials.jpg"
+                ]
+            },
+            "spotlight":{
+                "title":"Company spotlights Philippine art with Artistree pop-up gallery",
+                "desc":"See the highlights in fashion curated by top models in this fashion brand",
+                "images":[
+                    "https://youthincmag.com/wp-content/uploads/2018/05/Summer-Fashion-Essentials.jpg",
+                    "https://images.surfacemag.com/app/uploads/2017/09/26130345/is-fashion-modern-installation-shot-2000x1500.jpg",
+                    "https://images.surfacemag.com/app/uploads/2017/09/26130518/is-fashion-modern-installation-shot2-2000x1500.jpg",
+                    "https://images.surfacemag.com/app/uploads/2017/09/26124933/champion-hoodie-is-fashion-modern.001.jpeg",
+                    "https://images.surfacemag.com/app/uploads/2017/09/26121231/premaman-is-fashion-modern.001.jpeg"
+                ]
+            }
+        },
+        "announcementData":{
+            "articleHeader":{
+               "pageName":"Announcement",
+               "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+               "imageUrl":"http://www.pngall.com/wp-content/uploads/2016/07/Fashion.png",
+               "backgroundColor":"#b8ffd4",
+               "imageOnLeft":false
+            }
+         }
     }
-    ]
+}
